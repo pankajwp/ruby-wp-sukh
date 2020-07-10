@@ -1,0 +1,63 @@
+/*
+Theme Name: Ruby
+Theme URI: https://dorset.tech/
+Author: Dorset Tech
+Author URI: https://dorset.tech/
+Description: Ruby Tuesday.
+Version: 1.0.6
+License: ThemeForest
+License URI: https://themeforest.net/licenses
+Tags:  WordPress book store 
+Text Domain: book-junky
+*/
+.sticky {
+  font-family: inherit;
+}
+
+.wrap-search-book .search-field label {
+	font-family: "baloo";
+    color: #21bbef;
+    margin-bottom: 5px;
+	font-weight: normal;
+    font-size: 14px !important;
+    margin-left: 12px;
+}
+
+.book-junky-shop .product-thumbnial.fll{width: 100% !important;}
+.book-junky-shop .product-thumbnial.fll img{width: 100% !important;}
+.book-junky-shop .product-content.fll{width: 100% !important; padding-left: 0 !important; padding-top: 20px !important;}
+
+.book-junky-shop .product-content.fll .product-author{margin-bottom: 0 !important}
+.book-junky-shop div.book-junky-product{margin-bottom: 20px !important}
+
+.book-junky-shop .book-junky-products.shopp div.book-junky-product{float: none !important; display: inline-block !important; width: 270px !important;}
+
+.book-junky-shop div.book-junky-product.bookslf{padding: 0 1.5% !important}
+.book-junky-shop div.book-junky-product.bookslf .product-content{padding-left: 0; width: 100% !important; margin-top: 20px;}
+
+.single .book-feature {
+	margin-bottom: 20px
+}
+.single .book-feature h5 {
+	margin-bottom: 10px;
+}
+.single .book-feature b {
+	margin-bottom: 15px;
+	display: inline-block;
+	font-weight: 700;
+}
+
+.sidebar-filter aside#woocommerce_layered_nav-2 ul li a{
+	color: #e6007e;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.sidebar-filter aside#woocommerce_layered_nav-2 ul li span{
+	color: #333333;
+}
+
+.btn-primary {   
+	background-color: #1da1f2;
+	border-color: #2e6da4;
+}

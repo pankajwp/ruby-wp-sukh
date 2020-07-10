@@ -1,0 +1,46 @@
+aside#woocommerce_layered_nav-3  a,
+aside#woocommerce_layered_nav-3  a:hover {
+	color: #e6007e;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+h2.widgettitle,
+h2.widgettitle:hover {
+	font-size: 25px;
+    color: #21bbef;
+	margin-top: 40px;
+	text-decoration: underline
+}
+
+aside#woocommerce_layered_nav-4 a,
+aside#woocommerce_layered_nav-4 a:hover {
+	color: #e6007e;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sidebar-filter aside#woocommerce_product_categories-3 a,
+.sidebar-filter aside#woocommerce_product_categories-3 a:hover{
+	color: #e6007e;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item span {
+    color: #e6007e;
+}
+
+.widget_product_categories a,
+.widget_product_categories a:hover {
+	    color: #e6007e;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#footer-top .widget_product_categories a,
+#footer-top .widget_product_categories a:hover {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
